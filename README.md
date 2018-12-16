@@ -1,3 +1,3 @@
 # testing
 
-Just a place to store some test code
+Just a place to store test code
